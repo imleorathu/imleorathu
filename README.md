@@ -135,20 +135,25 @@ const rathursikan = {
     <td width="50%">
       <h3 align="center">📱 LearnSpire(Online Learning Platform)</h3>
       <p align="center">
-        <a href="https://github.com/imleorathu/lms-php">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=imleorathu&repo=lms-php&theme=tokyonight&hide_border=true" alt="LMS PHP" />
+        <a href="https://github.com/imleorathu/learnSpire">
+          <img src="https://github.com/imleorathu/imleorathu/blob/main/assets/LearnSpire.png" alt="LearnSpire" />
         </a>
       </p>
       <p align="center">
-        Lightweight LMS built with plain PHP + SQLite/MySQL. Full multi-role system with embedded class chat. Designed for low-infrastructure deployments.
+       LearnSpire is a modern online learning platform designed to connect students and educators through high-quality, structured digital courses.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
+         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white" />
+           <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" />
+           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
+            <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🔬 LocalSend Architecture Study</h3>
+      <h3 align="center">Way2Go - A Tour management Company </h3>
       <p align="center">
         <a href="https://github.com/imleorathu/localsend-analysis">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=imleorathu&repo=localsend-analysis&theme=tokyonight&hide_border=true" alt="LocalSend Study" />
@@ -160,6 +165,8 @@ const rathursikan = {
       <p align="center">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+            <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
     </td>
   </tr>
