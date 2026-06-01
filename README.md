@@ -102,12 +102,14 @@ const rathursikan = {
         </a>
       </p>
       <p align="center">
-        Full-stack LMS with multi-role access (Student / Teacher / Admin), real-time class chat, and <strong>Claude AI tutor integration</strong>. Built with Laravel + MySQL.
+        The Vite app includes Home, About, Faculties, Courses, Admissions, Student Dashboard, Admin Dashboard, News, and Contact views.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Claude_API-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white" />
+           <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" />
+        <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
+            <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
       </p>
     </td>
     <td width="50%">
