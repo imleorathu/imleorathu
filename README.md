@@ -156,17 +156,19 @@ const rathursikan = {
       <h3 align="center">Way2Go - A Tour management Company </h3>
       <p align="center">
         <a href="https://github.com/imleorathu/way2go">
-          <img src="" alt="LocalSend Study" />
+          <img src="https://github.com/imleorathu/imleorathu/blob/main/assets/Way2Go.png" alt="Way2Go" />
         </a>
       </p>
       <p align="center">
-        Deep-dive into the LocalSend Flutter monorepo — documenting UDP multicast discovery, HTTPS file transfer, TLS handshake, and REST API registration.
-      </p>
+          Way2Go is a tour management web application designed to help users easily browse, book, and manage travel packages online.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
             <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
+           <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" />
+           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
       </p>
     </td>
   </tr>
