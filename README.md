@@ -225,7 +225,7 @@ const rathursikan = {
 >     steps:
 >       - uses: Platane/snk@v3
 >         with:
->           github_user_name: YOUR_GITHUB_USERNAME
+>           github_user_name:imleorathu
 >           outputs: |
 >             dist/github-contribution-grid-snake.svg
 >             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
