@@ -187,12 +187,18 @@ const rathursikan = {
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=imleorathu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
+  <!-- Statistics: Programming languages -->
+<picture>
+  <source srcset="https://raw.githubusercontent.com/imleorathu/github_stats/main/output/stats_langs.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/imleorathu/github_stats/main/output/stats_langs.svg">
+</picture>
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy-fork-two.vercel.app/?username=imleorathu&theme=tokyonight" alt="GitHub Trophies" />
 </p>
+
+
 
 ---
 
@@ -202,40 +208,6 @@ const rathursikan = {
   <img src="https://raw.githubusercontent.com/imleorathu/imleorathu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-<details>
-<summary>⚙️ How to activate the snake animation (click to expand)</summary>
-
-Create `.github/workflows/snake.yml` in your profile repo with:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: imleorathu
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Actions → Generate Snake → Run workflow**. The SVG will appear automatically.
-
-</details>
-
----
 
 ## 📈 Activity Graph
 
