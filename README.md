@@ -83,7 +83,6 @@ const rathursikan = {
 
 **AI & Tools**
 
-![Claude API](https://console.groq.com/powered-by-groq-dark.svg)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -99,7 +98,7 @@ const rathursikan = {
       <h3 align="center">🎓 ATI JAFFNA - Full Webapplication</h3>
       <p align="center">
         <a href="https://github.com/imleorathu/ATI_JAFFNA">
-          <img src="blob:https://drive.proton.me/4e80e4ea-8380-44f9-8d4b-2c04c4c408bf alt="ATI Jaffna" />
+          <img src="https://github.com/imleorathu/imleorathu/blob/main/assets/Screenshot%202026-05-23%20012019.png" alt="LMS PHP" />
         </a>
       </p>
       <p align="center">
