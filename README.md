@@ -245,10 +245,11 @@ Then go to **Actions → Generate Snake → Run workflow**. The SVG will appear 
 ## 🔥 Currently Building
 
 ```
-🏗️  AI-integrated LMS platform        ████████████████░░░░  80%
-📱  Flutter cross-platform app         ████████░░░░░░░░░░░░  40%
-📄  QA documentation framework        ██████████████░░░░░░  70%
-🌐  Portfolio v2 (Next.js)            ██████░░░░░░░░░░░░░░  30%
+🏗️  ATI JAFFNA - Full Webapplication        ████████████████░░░░  80%
+📱  POS System                              ████████░░░░░░░░░░░░  40%
+📄  Way2Go - A Tour management              ██████████████░░░░░░  70%
+🏗️  LearnSpire(Online Learning Platform)    ████████████████░░░░  80%
+
 ```
 
 ---
