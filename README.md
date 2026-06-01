@@ -58,7 +58,7 @@ const rathursikan = {
 - 🧠 Passionate about clean architecture, polished UIs, and production-ready code
 - ⚡ I explored the **LocalSend open-source Flutter codebase** — networking, TLS, UDP multicast
 - 📫 Reach me: **[leorathu@gmail.com](mailto:leorathu@gmail.com)**
-- 🌐 Portfolio: **[Portfolio]((https://rathu.vercel.app/))**
+- 🌐 Portfolio: **[Portfolio](https://rathu.vercel.app/)**
 
 ---
 
