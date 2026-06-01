@@ -4,7 +4,7 @@
      ═══════════════════════════════════════════════════════════════ -->
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Anantharasa%20Rathursikan&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20React%20%C2%B7%20Laravel%20%C2%B7%20Flutter%20%7C%20AI%20Integration&descSize=18&descAlignY=65&reversal=false&textBg=false&animation=fadeIn" alt="Anantharasa Rathursikan - Full Stack Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Anantharasa%20Rathursikan&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20React%20%C2%B7%20Laravel%20%C2%B7%20MongoDB%20%7C%20AI%20Integration&descSize=18&descAlignY=65&reversal=false&textBg=false&animation=fadeIn" alt="Anantharasa Rathursikan - Full Stack Developer" />
 
 <!-- ANIMATED TYPING INTRO -->
 <p align="center">
@@ -79,11 +79,11 @@ const rathursikan = {
 **Database**
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **AI & Tools**
 
-![Claude API](https://img.shields.io/badge/Claude_API-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude API](https://console.groq.com/powered-by-groq-dark.svg)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
