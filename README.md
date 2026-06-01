@@ -133,7 +133,7 @@ const rathursikan = {
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">📱 Multi-Role LMS (PHP + SQLite)</h3>
+      <h3 align="center">📱 LearnSpire(Online Learning Platform)</h3>
       <p align="center">
         <a href="https://github.com/imleorathu/lms-php">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=imleorathu&repo=lms-php&theme=tokyonight&hide_border=true" alt="LMS PHP" />
