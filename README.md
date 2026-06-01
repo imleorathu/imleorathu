@@ -96,10 +96,10 @@ const rathursikan = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🎓 LearnForge — AI-Powered LMS</h3>
+      <h3 align="center">🎓 ATI JAFFNA - Full Webapplication</h3>
       <p align="center">
-        <a href="https://github.com/imleorathu/learnforge">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=imleorathu&repo=learnforge&theme=tokyonight&hide_border=true" alt="LearnForge" />
+        <a href="https://github.com/imleorathu/ATI_JAFFNA">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=imleorathu&repo=learnforge&theme=tokyonight&hide_border=true" alt="ATI JAFFNA" />
         </a>
       </p>
       <p align="center">
