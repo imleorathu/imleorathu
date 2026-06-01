@@ -40,7 +40,7 @@ const rathursikan = {
   currentFocus: "Building AI-integrated web & mobile apps",
   lookingFor:   "Full-Stack / Software Engineer roles (Remote & Local)",
   portfolio:    "https://rathu.vercel.app/",
-  funFact:      "I once built an entire LMS from scratch in under 4 weeks 🚀",
+  funFact:      "I once built an entire LMS from scratch in under 24 weeks 🚀",
 };
 ```
 
