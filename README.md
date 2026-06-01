@@ -113,16 +113,18 @@ const rathursikan = {
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">💼 Cyberpunk Portfolio</h3>
+      <h3 align="center">💼 POS System and Inventory Management System</h3>
       <p align="center">
-        <a href="https://rathu.vercel.app/">
-          <img src="blob:https://drive.proton.me/4e80e4ea-8380-44f9-8d4b-2c04c4c408bf" alt="Portfolio" />
+        <a href="https://github.com/imleorathu/pos_system">
+          <img src="https://github.com/imleorathu/imleorathu/blob/main/assets/Pos.png" alt="POS System" />
         </a>
       </p>
       <p align="center">
-        Cyberpunk-themed developer portfolio with particle background, animated scroll effects, and neon UI — single-file HTML/CSS/JS. Live at <a href="https://rathu.vercel.app/">rathu.vercel.app</a>.
+        A POS System and Inventory Management System is a web-based application designed to manage sales, products, stock levels, invoices, and daily business transactions efficiently. It helps businesses track inventory in real time, process customer orders, reduce manual errors.</a>.
       </p>
       <p align="center">
+           <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+           <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
