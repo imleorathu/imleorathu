@@ -99,7 +99,7 @@ const rathursikan = {
       <h3 align="center">🎓 ATI JAFFNA - Full Webapplication</h3>
       <p align="center">
         <a href="https://github.com/imleorathu/ATI_JAFFNA">
-          <img src="[https://drive.proton.me/u/0/0EDSFFF7J3dVl7gjHjvZOw/file/RyD7GpRKGLoLblvoVZmLGA]"ATI JAFFNA" />
+          <img src="blob:https://drive.proton.me/4e80e4ea-8380-44f9-8d4b-2c04c4c408bf alt="ATI Jaffna" />
         </a>
       </p>
       <p align="center">
