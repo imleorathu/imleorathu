@@ -115,7 +115,7 @@ const rathursikan = {
       <h3 align="center">💼 Cyberpunk Portfolio</h3>
       <p align="center">
         <a href="https://rathu.vercel.app/">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=imleorathu&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio" />
+          <img src="blob:https://drive.proton.me/4e80e4ea-8380-44f9-8d4b-2c04c4c408bf" alt="Portfolio" />
         </a>
       </p>
       <p align="center">
