@@ -53,12 +53,12 @@ const rathursikan = {
 };
 ```
 
-- 🔭 Currently building **AI-powered web & mobile platforms** using Laravel + Claude API
-- 🌱 Deep-diving into **Flutter internals**, REST API design patterns & software QA
+- 🔭 Currently building **AI-powered webapplications** using React and node.js
+- 🌱 Deep-diving into **React internals**, REST API design patterns & software QA
 - 🧠 Passionate about clean architecture, polished UIs, and production-ready code
 - ⚡ I explored the **LocalSend open-source Flutter codebase** — networking, TLS, UDP multicast
-- 📫 Reach me: **[your.email@gmail.com](mailto:your.email@gmail.com)**
-- 🌐 Portfolio: **[yourportfolio.dev](https://yourportfolio.dev)**
+- 📫 Reach me: **[leorathu@gmail.com](mailto:leorathu@gmail.com)**
+- 🌐 Portfolio: **[Portfolio]((https://rathu.vercel.app/))**
 
 ---
 
