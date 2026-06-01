@@ -155,8 +155,8 @@ const rathursikan = {
     <td width="50%">
       <h3 align="center">Way2Go - A Tour management Company </h3>
       <p align="center">
-        <a href="https://github.com/imleorathu/localsend-analysis">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=imleorathu&repo=localsend-analysis&theme=tokyonight&hide_border=true" alt="LocalSend Study" />
+        <a href="https://github.com/imleorathu/way2go">
+          <img src="" alt="LocalSend Study" />
         </a>
       </p>
       <p align="center">
